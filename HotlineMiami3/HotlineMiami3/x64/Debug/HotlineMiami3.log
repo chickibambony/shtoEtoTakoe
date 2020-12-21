@@ -1,0 +1,292 @@
+﻿  ArtificialIntelect.cpp
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\ArtificialIntelect.cpp(42,76): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\ArtificialIntelect.cpp(42,57): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\ArtificialIntelect.cpp(169,86): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\ArtificialIntelect.cpp(169,63): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\ArtificialIntelect.cpp(179,110): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\ArtificialIntelect.cpp(179,82): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\ArtificialIntelect.cpp(182,87): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\ArtificialIntelect.cpp(182,59): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Bullet.cpp
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Bullet.cpp(5,33): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Bullet.cpp(6,32): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Bullet.cpp(12,87): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Bullet.cpp(12,53): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Bullet.cpp(19,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Bullet.cpp(27,39): warning C4244: +=: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Bullet.cpp(28,38): warning C4244: +=: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Bullet.cpp(37,88): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Bullet.cpp(37,53): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Drop.cpp
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Drop.cpp(9,72): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Drop.cpp(9,53): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Drop.cpp(15,78): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Drop.cpp(15,59): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Drop.cpp(28,39): warning C4244: +=: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Drop.cpp(30,38): warning C4244: +=: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Drop.cpp(38,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Drop.cpp(38,57): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Drop.cpp(39,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Drop.cpp(39,63): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Drop.cpp(152,48): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Drop.cpp(152,33): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Enemy.cpp
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(12,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(12,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(24,43): warning C4244: +=: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(26,42): warning C4244: +=: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(33,75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(33,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(34,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(34,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(35,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(35,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(36,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(36,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(46,56): warning C4244: +=: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(48,55): warning C4244: +=: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(54,29): warning C4305: -=: усечение из "double" в "float"
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(103,27): warning C4305: =: усечение из "double" в "float"
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(110,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Enemy.cpp(131,27): warning C4305: =: усечение из "double" в "float"
+  Engine.cpp
+  Game.cpp
+  HotlineMiami3.cpp
+  Map.cpp
+  MovableEntity.cpp
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\MovableEntity.cpp(26,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\MovableEntity.cpp(27,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\MovableEntity.cpp(27,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\MovableEntity.cpp(52,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\MovableEntity.cpp(130,48): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\MovableEntity.cpp(130,33): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Player.cpp
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Player.cpp(17,43): warning C4244: +=: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Player.cpp(19,42): warning C4244: +=: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Player.cpp(21,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Player.cpp(21,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Player.cpp(22,83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Player.cpp(22,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Player.cpp(23,83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\Player.cpp(23,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  TextureHolder.cpp
+  Tile.cpp
+  View.cpp
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\View.cpp(8,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Documents\Visual Studio\project VS\HotlineMiami3\HotlineMiami3\View.cpp(8,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Weapon.cpp
+  Window.cpp
+  Создание кода...
+Map.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B).
+MovableEntity.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B).
+Player.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B).
+Window.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B).
+ArtificialIntelect.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B).
+Bullet.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B).
+Drop.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B).
+Enemy.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B).
+ArtificialIntelect.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::Color const sf::Color::Red" (?Red@Color@sf@@2V12@B).
+ArtificialIntelect.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::Color const sf::Color::Cyan" (?Cyan@Color@sf@@2V12@B).
+Enemy.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::Color const sf::Color::Green" (?Green@Color@sf@@2V12@B).
+Enemy.obj : error LNK2001: неразрешенный внешний символ "public: static class sf::Color const sf::Color::Transparent" (?Transparent@Color@sf@@2V12@B).
+D:\Documents\Visual Studio\project VS\HotlineMiami3\x64\Debug\HotlineMiami3.exe : fatal error LNK1120: неразрешенных внешних элементов: 5

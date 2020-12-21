@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HotlineMiami3", "HotlineMiami3\HotlineMiami3.vcxproj", "{A94F66C6-DBFA-48EF-965C-7149FBE9E692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94F66C6-DBFA-48EF-965C-7149FBE9E692}.Debug|x64.ActiveCfg = Debug|x64
+		{A94F66C6-DBFA-48EF-965C-7149FBE9E692}.Debug|x64.Build.0 = Debug|x64
+		{A94F66C6-DBFA-48EF-965C-7149FBE9E692}.Debug|x86.ActiveCfg = Debug|Win32
+		{A94F66C6-DBFA-48EF-965C-7149FBE9E692}.Debug|x86.Build.0 = Debug|Win32
+		{A94F66C6-DBFA-48EF-965C-7149FBE9E692}.Release|x64.ActiveCfg = Release|x64
+		{A94F66C6-DBFA-48EF-965C-7149FBE9E692}.Release|x64.Build.0 = Release|x64
+		{A94F66C6-DBFA-48EF-965C-7149FBE9E692}.Release|x86.ActiveCfg = Release|Win32
+		{A94F66C6-DBFA-48EF-965C-7149FBE9E692}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {696EBE88-5D28-48B3-9318-8C9DFC35DCDA}
+	EndGlobalSection
+EndGlobal
